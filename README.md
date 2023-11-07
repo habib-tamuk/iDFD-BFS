@@ -1,5 +1,5 @@
 # iDFD-BFST
-Addressing Agricultural Challenges: An Identification of Best Feature Selection Techniques For Dragon Fruit Disease Recognition
+Addressing Agricultural Challenges: An Identification of Best Feature Selection Technique For Dragon Fruit Disease Recognition
 
 # Table of Content
 *	[Getting Started](#getting-started)
@@ -52,6 +52,10 @@ Rashiduzzaman Shakil, Shawn Islam, Yeasir Arafat Shohan, Anonto Mia, Aditya Rajb
 
 For any issue please contact Aditya Rajbongshi, aditya0001@bdu.ac.bd 
 
+## Declaration
+Authors are requested to cite and acknowledge article [2] for any reuse of this project. 
+
 ## References
 
 1. Reference will be updated soon.
+2. Shakil, R., Islam, S., Shohan, Y. A., Mia, A., Rajbongshi, A., Rahman, M. H., & Akter, B. Addressing Agricultural Challenges: An Identification of Best Feature Selection Technique for Dragon Fruit Disease Recognition. https://doi.org/10.1016/j.array.2023.100326
