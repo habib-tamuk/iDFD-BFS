@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-We have tested RDTLM on MATLAB 2020a and Python on the Windows 10 operating system. You would need to install the following software before replicating this framework in your local or server machine. 
+We have tested RDTLM on MATLAB 2020a and Python V3 on the Windows 10 operating system. You would need to install the following software before replicating this framework in your local or server machine. 
 
 1. MATLAB 2020a or newer version
 
